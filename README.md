@@ -1,5 +1,4 @@
-
-#**Raspberry Pi Pico MAX31856 SPU Bit banging Example**
+# **Raspberry Pi Pico MAX31856 SPU Bit banging Example**
 
 This is a simple SPI bit bang driver example for MAX31856 using Raspberry Pi Pico. 
 
